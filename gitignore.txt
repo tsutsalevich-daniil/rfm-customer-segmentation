@@ -1,0 +1,22 @@
+# Данные (слишком большие для репозитория / приватные)
+*.csv
+*.xlsx
+rfm_segments.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# ydata-profiling кэш
+profile_output/
+*.html
+
+# OS
+.DS_Store
+Thumbs.db
