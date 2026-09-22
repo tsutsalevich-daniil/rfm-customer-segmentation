@@ -47,7 +47,9 @@
 ├── RFM_analysis.ipynb   # основной ноутбук с анализом
 ├── README.md
 ├── requirements.txt
+├── result_rfm_segments.csv   # результат FRM анализа 
 └── .gitignore
+
 ```
 
 ## Как запустить
